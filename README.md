@@ -1,7 +1,7 @@
 # How to run
 
 ## CLI test (I could've done a better job with the output)
-bash test.sh <file1> <file2> ... <fileN>
+bash test.sh file1 file2 ... fileN
 eg. bash test.sh hello pluraltest tietest
 
 Above expects there to be the filename with 'expected' appended eg. helloexpected
